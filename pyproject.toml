@@ -2,7 +2,7 @@
 name = "openCV-test"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Domagoj Zubac <you@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
